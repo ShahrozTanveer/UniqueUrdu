@@ -44,3 +44,5 @@ print(len(collection))
 outputFile = open(outputPath,'w')
 for word in collection:
     outputFile.write(word+"\n")
+outputFile.close()
+print(collection)
