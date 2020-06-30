@@ -1,4 +1,5 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Gitter](https://badges.gitter.im/SharozTanveer/community.svg)](https://gitter.im/SharozTanveer/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![GitHub contributors](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ShahrozTanveer/UniqueUrdu/pulls)
 [![Python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ShahrozTanveer/UniqueUrdu.svg?style=flat)]()
