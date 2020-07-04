@@ -11,3 +11,16 @@
 
 # UniueUrdu
 Extract unique Urdu words from raw Urdu Paragraphs and remove punctuations
+
+### Author
+
+**Sharoz Tanveer**
+
+* [LinkedIn Profile](https://www.linkedin.com/in/sharoztanveer/)
+* [GitHub Profile](https://github.com/ShahrozTanveer)
+* [Twitter Profile](https://twitter.com/saadtanveer3121)
+
+### License
+
+Copyright © 2020, [Sharoz Tanveer](https://github.com/ShahrozTanveer).
+Released under the [MIT License](LICENSE).
